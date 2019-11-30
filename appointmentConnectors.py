@@ -1,5 +1,5 @@
 import datetime
-from mongoengine import Appointment, Symptoms
+from models import Appointment, Symptom
 
 def listDoctors(symptomList):
     pass
